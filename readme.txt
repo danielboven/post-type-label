@@ -1,14 +1,13 @@
 === Post Type Label ===
 Contributors:      danielboven
-Tags:              block, gutenberg, post type, query loop, block editor, template parts
+Tags:              block, gutenberg, post type, query loop, template parts
 Requires at least: 6.7
-Tested up to:      6.7
+Tested up to:      6.8
 Stable tag:        1.0.0
 License:           GPL-2.0-or-later
 License URI:       https://www.gnu.org/licenses/gpl-2.0.html
 
-A simple block that displays the post type (e.g. "Page", "Post") anywhere in the Block Editor, including inside Query Loop templates, Single templates, or normal posts/pages.
-You can also customise the display label for the Page or Post type.
+A simple block that displays the post type (e.g. "Page", "Post") anywhere in the Block Editor, including inside Query Loops, templates and posts.
 
 == Description ==
 

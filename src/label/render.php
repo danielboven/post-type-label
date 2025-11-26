@@ -25,7 +25,7 @@ $wrapper_attributes = get_block_wrapper_attributes();
 
 echo sprintf(
     '<div %s>%s</div>',
-    $wrapper_attributes,
+    esc_html( $wrapper_attributes ),
     esc_html( $label )
 );
 
