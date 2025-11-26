@@ -52,7 +52,7 @@ This block solves that in one click.
 Yes. If inserted on a normal post or page, it shows that post's type.
 
 = Does it support custom post types? =
-Yes. If no custom label is set, the block falls back to the capitalized post type (e.g. “Product”, “Event”, “Book”).
+Yes. If no custom label is set, the block falls back to the capitalized post type (e.g. "Product", "Event", "Book").
 
 = Does it support Full Site Editing? =
 Yes — works in all block themes and template parts.
