@@ -60,6 +60,13 @@ Yes — works in all block themes and template parts.
 = Is this block dynamic? =
 Yes. Frontend rendering uses PHP (`render.php`), ensuring consistent output even when cached.
 
+== Contribute ==
+
+This plugin is developed on GitHub.  
+Pull requests, issues, and feature suggestions are welcome:
+
+https://github.com/danielboven/post-type-label/
+
 == Changelog ==
 
 = 1.0.0 =
